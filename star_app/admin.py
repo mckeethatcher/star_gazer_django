@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import Star
+from .models import Crud
 
-admin.site.register(Star)
+admin.site.register(Crud)
